@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "lines": {
+    "Line_1": {
+      "first_train": "05:30 AM",
+      "last_train": "11:50 PM"
+    },
+    "Line_2A": {
+      "first_train": "05:55 AM",
+      "last_train": "11:00 PM"
+    },
+    "Line_7": {
+      "first_train": "05:30 AM",
+      "last_train": "11:00 PM"
+    },
+    "Line_3": {
+      "first_train": "05:55 AM",
+      "last_train": "10:30 PM"
+    }
+  }
+}
